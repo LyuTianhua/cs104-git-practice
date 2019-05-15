@@ -1,2 +1,2 @@
-# cs104-git-practice
-Lab 1 Practice
+# git-practice
+Practice
